@@ -1,6 +1,6 @@
 cask "zeku" do
-  version "0.1.22"
-  sha256 "5587a76355c192023c36260938c00ecca349743ebc7c9e4e446f4805c2d4b09d"
+  version "0.1.23"
+  sha256 "19dee403bfec2ddeee0f23f9f560dbaf0bc3ec25ddaa8272338edf456daa12be"
 
   url "https://releases.zeku.dev/download/Zeku_#{version}_universal.dmg"
   name "Zeku"
